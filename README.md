@@ -1,2 +1,3 @@
-# hyper-web-app-jwcv
-Automated issue comment bot repository
+# Hyper Web App Jwcv
+
+Automated issue comment bot repository.
